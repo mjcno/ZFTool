@@ -15,3 +15,20 @@ Quantification of cellular proliferation in vivo is performed through image proc
 with the ZFtool toolbox. ZFtool can establish a base threshold that
 eliminates embryo auto-fluorescence and measures the area of marked cells (GFP)
 and the intensity of those cells to define a 'proliferation index'.
+
+Example of use:
+Images must be inside a folder called for example: Images
+Inside this folder we must have at least 4 images for each fish:
+   -grey image at 0hpi
+   -grey image at 24, 48 or 72 hpi
+   -GFP fluorescence image at 0hpi
+   -GFP fluorescence image at 24, 48 or 72 hpi
+   -For example, for fish number 2, image must be named in this way:
+            2 - 0h bn.tif and 2 - 0h gfp.tif
+            2 - 48h bn.tif and 2 - 48h gfp.tif
+            
+Example of program execution:
+-image folder: Images
+-fish number: 2
+-initial hour: 0
+-final hour: 48
