@@ -1,6 +1,6 @@
 **ZFtool** is a toolbox for **quantification of cellular proliferation in vivo** of the **zebrafish** trough image processing methods.
 
-Zebrafishes are injected with a *green fluorescence protein* (*GFP*) in order to efficiently visualize the cancer mass.
+Zebrafishes are injected with a *green fluorescence protein* (*GFP*) in order to visualize the cancer mass.
 
 ZFTool eliminates the auto-fluorescence of the zebrafish through computation of area with different intensity thresholds and automatically computing the auto-fluorescence threshold, which is established for both images at 0hpi and 24-48-72hpi (_hpi=hours post injection_), respectively. ZFTool then computes the cancer mass area and mean intensity for both images and calculates the **proliferation index**.
 
