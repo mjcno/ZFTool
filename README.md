@@ -44,5 +44,5 @@ With the included images you can run the following example:
 
  * Image folder: `Images`
  * Fish number: `2`
- * Initial measurement hour (0hpi):: `0`
+ * Initial measurement hour (0hpi): `0`
  * Final measurement hour (24hpi, 48hpi or 72hpi): `48`
