@@ -1,4 +1,4 @@
-**ZFtool** is a toolbox for **quantification of cellular proliferation in vivo** of the **zebrafish** trough image processing methods.
+**ZFtool** is a toolbox for **quantification of cellular proliferation in vivo** of the **zebrafish** through image processing methods.
 
 Zebrafishes are injected with a *green fluorescence protein* (*GFP*) in order to visualize the cancer mass.
 
